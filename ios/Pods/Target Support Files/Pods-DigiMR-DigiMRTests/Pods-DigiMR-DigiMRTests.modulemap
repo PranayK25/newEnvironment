@@ -1,0 +1,6 @@
+module Pods_DigiMR_DigiMRTests {
+  umbrella header "Pods-DigiMR-DigiMRTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
